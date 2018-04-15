@@ -8,13 +8,13 @@ Creates an overlay over the video feed that either describes and translates obje
 The original idea was to use at as an AR thing for traveling to different countries, so that you can figure out the native words for things in your field of view.
 
 
-#Features
+# Features
 - Support for any language that Google translate supports
 - Text recognition and translation
 - A moderately intuitive and somewhat easy to use interface
 
 
-#Some screenshots:
+# Some screenshots:
 ![](https://i.imgur.com/nMjLelF.jpg)
 
 
