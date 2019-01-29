@@ -11,7 +11,7 @@ The original idea was to use at as an AR thing for traveling to different countr
 # Features
 - Support for any language that Google translate supports
 - Text recognition and translation
-- A moderately intuitive and somewhat easy to use interface
+- Simple to use interface
 
 
 # Some screenshots:
